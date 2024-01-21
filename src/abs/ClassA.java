@@ -6,6 +6,10 @@ public class ClassA {
 		System.out.println(smethod("madhuri1234"));
 		System.out.println("madhuri added 1");
 		System.out.println("madhuri added 2");
+		System.out.println("Gitstuff");
+		System.out.println("madhuri added 3");
+		System.out.println("madhuri added 4");
+		System.out.println("madhuri added 5");
 		
 
 	}
