@@ -3,3 +3,17 @@ a
 b
 c
 d
+<<<<<<< HEAD
+=======
+e
+f
+
+
+
+numbers
+1
+2
+3
+4
+5
+>>>>>>> develop2
