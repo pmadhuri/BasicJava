@@ -15,7 +15,7 @@ public class ClassA {
 	}
 public void add() {
 	
-	
+	System.out.println("gitStuff added for dev b");
 	
 }
 	private static String smethod(String name) {
