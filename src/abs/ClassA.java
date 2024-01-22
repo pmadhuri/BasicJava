@@ -13,7 +13,11 @@ public class ClassA {
 		
 
 	}
-
+public void add() {
+	
+	
+	
+}
 	private static String smethod(String name) {
 		// TODO Auto-generated method stub
 		return name;
